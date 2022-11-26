@@ -11,12 +11,12 @@ This week's challenge focuses on assessibility, organization and refactoring cod
 ### End Product 
 Below is a screenshot of what the initial website looks like and what it should still look like once all the code has been refractored.
 
-<img src="/01-html-css-git-homework-demo.png">
+<img src="./assets/images/01-html-css-git-homework-demo.png">
 
 ### Contributing
 Lindsey Gaughan (Me!)
 
-<img src="/Lindsey-Gaughan.jpg" alt="Lindsey Gaughan - Me!" style="width:200px;" /> 
+<img src="./assets/images/lindsey-gaughan.jpg" alt="Lindsey Gaughan - Me!" style="width:200px;" /> 
 
 <!-- include live deployed link from pages on Github -->
 
