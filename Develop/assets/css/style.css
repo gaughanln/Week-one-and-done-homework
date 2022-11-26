@@ -35,7 +35,7 @@ h3 {
     color: white;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -43,12 +43,10 @@ h3 {
     font-size: 20px;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
-
 
 a {
     color: #ffffff;
@@ -58,16 +56,15 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This is the header image.  */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
-
+/* determines the direction of the large boxes on the left */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -78,13 +75,12 @@ p {
     margin-left: 25px;
 }
 
-
+/* Large content boxes on the left */
 .resources {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
 
 /* Large content boxes on the left */
 .content-blocks {
@@ -124,7 +120,7 @@ p {
     max-width: 150px;
 }
 
-/* 
+ /* footer */
 .footer {
     padding: 30px;
     clear: both;

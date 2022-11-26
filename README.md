@@ -18,4 +18,6 @@ Lindsey Gaughan (Me!)
 
 <img src="/Lindsey-Gaughan.jpg" alt="Lindsey Gaughan - Me!" style="width:200px;" /> 
 
+<!-- include live deployed link from pages on Github -->
+
 #
