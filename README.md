@@ -13,11 +13,13 @@ Below is a screenshot of what the initial website looks like and what it should 
 
 <img src="./assets/images/01-html-css-git-homework-demo.png">
 
+### Deployment
+Here is the [link](https://gaughanln.github.io/Week-one-and-done-homework/) to the live website
+
 ### Contributing
 Lindsey Gaughan (Me!)
 
 <img src="./assets/images/lindsey-gaughan.jpg" alt="Lindsey Gaughan - Me!" style="width:200px;" /> 
 
-<!-- include live deployed link from pages on Github -->
 
 #
